@@ -6,7 +6,7 @@ Qu'est-ce que Taams? Taams est une monnaie numérique expérimentale qui permet 
 
 Télecharge
 
-Taams-coin wallet-qt (32-bit)
+Taams-coin wallet-qt (32-bit)https://github.com/Taams-coin/wallet/raw/master/taams-qt-windows.zip
 
 Contribution
 
